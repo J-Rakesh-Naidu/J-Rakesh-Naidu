@@ -1,7 +1,6 @@
 ## Hi there, I'm <a href="https://github.com/J-Rakesh-Naidu">Rakesh Naidu</a> 👋
 
-## Glad to see you here  
-<img src="https://visitcount.itsvg.in/api?id=Rakesh&label=Profile%20Views&pretty=true" />
+## Glad to see you here  [![](https://visitcount.itsvg.in/api?id=J-Rakesh-Naidu&icon=3&color=3)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🔭 I’m currently working on <br>👯 I’m looking to collaborate on Machine Learning Projects<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning DSA and Deep Learning
@@ -22,5 +21,6 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
