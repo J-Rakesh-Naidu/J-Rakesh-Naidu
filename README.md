@@ -1,7 +1,7 @@
 ## Hi there, I'm <a href="https://github.com/J-Rakesh-Naidu">Rakesh Naidu</a> 👋
  Glad to see you here  [![](https://visitcount.itsvg.in/api?id=J-Rakesh-Naidu&icon=3&color=3)](https://visitcount.itsvg.in)
 ## 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on Machine Learning Projects<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning DSA and Deep Learning
+<img height=200 align="left" src="https://github.com/J-Rakesh-Naidu/J-Rakesh-Naidu/blob/main/octocat-1716605996309.png"/> 🔭 I’m currently working on <br>👯 I’m looking to collaborate on Machine Learning Projects<br>🌱 I’m currently learning DSA and Deep Learning
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/._.alexandros._.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro_________21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/J-Rakesh-Naidu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ?feature=shared) 
